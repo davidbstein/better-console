@@ -1,0 +1,24 @@
+{
+  "name": "better-console",
+  "version": "0.1.0",
+  "description": "Better logging for web consoles",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidbstein/better-console.git"
+  },
+  "keywords": [
+    "console",
+    "logging",
+    "web"
+  ],
+  "author": "David Stein (davidbstein@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidbstein/better-console/issues"
+  },
+  "homepage": "https://github.com/davidbstein/better-console#readme"
+}
